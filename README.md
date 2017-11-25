@@ -4,7 +4,7 @@
 used python 2.7 along with mongodb [pymongo] , flask , Gridfs for document upload and read
 
 there are 7 apis.
-mongo client is a web hosted server by mlab.
+mongo host client is : https://mlab.com/databases/bookstore/collections/.
 1. book-upload :- [POST] , body{ 'name' : 'books name' , 'price':'price of book' ,'tags': 'type of book etc' ,'author':'', 
 and 'file': 'actual pdf file'
 
