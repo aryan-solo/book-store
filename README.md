@@ -23,5 +23,5 @@ images of the postman requests has also been provided.
 will psuh some changes in a few hours.
 
 
-// bookstore.api is the main appliaction script .
+// bookstore.py is the main appliaction script .
 // the database used is live 24/7 so code can be cloned and can run from anywhere.
